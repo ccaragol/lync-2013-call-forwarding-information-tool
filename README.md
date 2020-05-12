@@ -8,3 +8,5 @@ If you would like to see the information in a different format, say an PowerShel
 
 Finally, the question that I imagine will be asked is: If you can pull this data as read-only, why not give the ability to modify and write it back and avoid sefautil all together? The quick answer is, I have another utility for this that I have not yet released, and reading the data is much simpler than writing it. I am still putting it through it's paces for quality and will decide if it should be released later.
 
+![Image](https://github.com/ccaragol/lync-2013-call-forwarding-information-tool/blob/master/CallForwardInfoScreenshotSmall.jpg)
+
